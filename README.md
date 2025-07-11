@@ -6,7 +6,10 @@ An interactive web app to input student marks and calculate their average, grade
 
 ## 🚀 Live Demo
 
-👉 [Click to open the app](https://pradeepcr7-student-performance-tracker.streamlit.app)
+## 🚀 Live App
+
+👉 [Click here to use the app](https://student-performance-tracker-aftfwejysufyphfa5yxty2.streamlit.app/)
+
 
 ---
 
